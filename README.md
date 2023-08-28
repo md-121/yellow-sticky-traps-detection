@@ -3,6 +3,10 @@
 Detection and Classification of Insects caught by Yellow Sticky Traps.
 Code for our paper [Faster R-CNN and EfficientNet for Accurate Insect Identification in a Relabeled Yellow Sticky Traps Dataset](https://ieeexplore.ieee.org/abstract/document/9628708) published in 2021 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor).
 
+# Dataset
+
+The used dataset can be found in the [yellow-sticky-traps-dataset](https://github.com/md-121/yellow-sticky-traps-dataset) repository.
+
 # Citation
 
 ```
