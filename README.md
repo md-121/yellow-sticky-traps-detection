@@ -7,6 +7,10 @@ Code for our paper [Faster R-CNN and EfficientNet for Accurate Insect Identifica
 
 The used dataset can be found in the [yellow-sticky-traps-dataset](https://github.com/md-121/yellow-sticky-traps-dataset) repository.
 
+# Checkpoints
+
+Model checkpoints are available at [Zenodo](https://zenodo.org/records/10403044).
+
 # Citation
 
 ```
